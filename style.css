@@ -9,7 +9,7 @@ body {
 }
 
 header.startup {
-  background-image: url("Ramen.jpg");
+  background-image: url("ramen.jpg");
   background-size: cover;
   background-position: center;
   height: 100%;
